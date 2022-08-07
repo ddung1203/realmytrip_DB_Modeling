@@ -1,3 +1,3 @@
 # Physical
 
-![Untitled](img/Physical.png.png)
+![Untitled](img/Physical.png)
