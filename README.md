@@ -1,5 +1,20 @@
 # realmytrip_DB_Modeling
 
+### 산출물 구성
+
+[표준용어·코드정의서](Database/표준용어·코드정의서.md)
+
+[도메인 정의서](Database/도메인_정의서.md)
+
+[테이블 정의서](Database/테이블_정의서.md)
+
+[BCNF 3NF 증명](Database/BCNF_3NF_증명.md)
+
+[Logical](Database/Logical.md)
+
+[Physical](Database/Physical.md)
+
+[project.erwin](Database/project.erwin)
 
 ### 요구사항
 
@@ -34,19 +49,3 @@
 
 ### 5. 기타
 - 참고 사이트를 분석하여 추가적인 기능이 있다면 이를 반영한다.
-
-### 산출물 구성
-
-[표준용어·코드정의서](Database/표준용어·코드정의서.md)
-
-[도메인 정의서](Database/도메인_정의서.md)
-
-[테이블 정의서](Database/테이블_정의서.md)
-
-[BCNF 3NF 증명](Database/BCNF_3NF_증명.md)
-
-[Logical](Database/Logical.md)
-
-[Physical](Database/Physical.md)
-
-[project.erwin](Database/project.erwin)
