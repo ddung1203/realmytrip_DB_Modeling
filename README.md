@@ -1,4 +1,4 @@
-# 리얼마이트립 DB 모델링
+# Realmytrip DB Modeling
 
 ### 산출물 구성
 
